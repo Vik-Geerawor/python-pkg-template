@@ -1,0 +1,4 @@
+[project]
+name = "{{ cookiecutter.__project_slug }}"
+version = "{{ cookiecutter.python_version }}"
+description = "{{ cookiecutter.descriptoin }}"

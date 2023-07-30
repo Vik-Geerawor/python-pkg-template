@@ -1,1 +1,17 @@
-{}
+{
+    "project_name": "Hello World",
+    "__project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '_')|replace('-', '_') }}",
+    "version": "0.1.0",
+    "description": "Hellow to our planet Earth.",
+    "python_version": "3.10",
+    "license": [
+        "MIT",
+        "Apache License 2.0",
+        "GNU General Public License v3.0",
+        "CC0 v1.0 Universal",
+        "BSD 3-Clause",
+        "Proprietary",
+        "None"
+    ],
+    "author_name": "Anonymous"
+}
