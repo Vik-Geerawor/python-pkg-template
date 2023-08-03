@@ -2,16 +2,16 @@
     "project_name": "Hello World",
     "__project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '_')|replace('-', '_') }}",
     "version": "0.1.0",
-    "description": "Hellow to our planet Earth.",
+    "description": "Hello to our planet Earth.",
     "python_version": "3.10",
     "license": [
-        "MIT",
-        "Apache License 2.0",
-        "GNU General Public License v3.0",
-        "CC0 v1.0 Universal",
-        "BSD 3-Clause",
-        "Proprietary",
-        "None"
+        "MIT license",
+        "BSD license",
+        "ISC license",
+        "Apache Software License 2.0",
+        "GNU General Public License v3",
+        "Not open source"
     ],
-    "author_name": "Anonymous"
+    "author_name": "Anonymous",
+    "email": "anonymous@email.com"
 }
